@@ -1,0 +1,25 @@
+.travel-blog{
+    height: 100vh;
+    background: #e5e6ad;
+    padding-top: 5rem;
+}
+.travel-blog img {
+    width: 27vw;
+    height: 55vh;
+    object-fit: cover;
+    border-radius: 0.5rem;
+    margin: 1rem;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+.travel-blog-heading{
+    font-size: 3rem;
+    font-weight: 600;
+    text-align: center;
+    padding: 1rem;
+}
+.travel-blog p{
+    font-size: 1.5rem;
+    font-weight: 400;
+    margin: 1rem 0;
+    text-align: center;
+}
